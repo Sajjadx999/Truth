@@ -1,4 +1,9 @@
-Title
+Title:
 User information collection
-Tool
---POSTMAN, NODE, VS CODE
+
+Tool:
+--POSTMAN
+
+Technology:
+--node JS, VS Code
+
